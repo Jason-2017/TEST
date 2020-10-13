@@ -1,0 +1,32 @@
+[
+    {
+        "IdProd": 1,
+        "IdTypeChicken": 3,
+        "IdShed": 3,
+        "IdSupp": "INC00002",
+        "BirthDateChicken": "2020-10-01T00:00:00",
+        "InitialNumberBirds": 4000,
+        "BacthNumber": "20201001_GUA_MIXTOS",
+        "StarAvgWeight": 0.5
+    },
+    {
+        "IdProd": 2,
+        "IdTypeChicken": 2,
+        "IdShed": 1,
+        "IdSupp": "INC00001",
+        "BirthDateChicken": "2020-01-01T00:00:00",
+        "InitialNumberBirds": 4000,
+        "BacthNumber": "20201001_GUA_MIXTOS",
+        "StarAvgWeight": 0.5
+    },
+    {
+        "IdProd": 3,
+        "IdTypeChicken": 1,
+        "IdShed": 2,
+        "IdSupp": "INC00001",
+        "BirthDateChicken": "2020-03-01T00:00:00",
+        "InitialNumberBirds": 4000,
+        "BacthNumber": "20201001_GUA_MIXTOS",
+        "StarAvgWeight": 0.5
+    }
+]
