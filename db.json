@@ -1,22 +1,22 @@
 [
     {
-        "IdProd": 1,
-        "IdTypeChicken": 3,
-        "IdShed": 3,
-        "IdSupp": "INC00002",
-        "BirthDateChicken": "2020-10-01T00:00:00",
-        "InitialNumberBirds": 4000,
-        "BacthNumber": "20201001_GUA_MIXTOS",
-        "StarAvgWeight": 0.5
+        "IdShed": 1,
+        "ShedName": "Galpon 1",
+        "ShedCapacity": 4000
     },
     {
-        "IdProd": 2,
-        "IdTypeChicken": 2,
-        "IdShed": 1,
-        "IdSupp": "INC00001",
-        "BirthDateChicken": "2020-01-01T00:00:00",
-        "InitialNumberBirds": 4000,
-        "BacthNumber": "20201001_GUA_MIXTOS",
-        "StarAvgWeight": 0.5
+        "IdShed": 2,
+        "ShedName": "Galpon 2",
+        "ShedCapacity": 4000
+    },
+    {
+        "IdShed": 3,
+        "ShedName": "Galpon 3",
+        "ShedCapacity": 4000
+    },
+    {
+        "IdShed": 4,
+        "ShedName": "Galpon 4",
+        "ShedCapacity": 4000
     }
 ]
