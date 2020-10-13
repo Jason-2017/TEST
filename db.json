@@ -1,4 +1,4 @@
-{
+[
     {
         "IdProd": 1,
         "IdTypeChicken": 3,
@@ -19,4 +19,4 @@
         "BacthNumber": "20201001_GUA_MIXTOS",
         "StarAvgWeight": 0.5
     }
-}
+]
